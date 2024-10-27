@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8000/api/v1/courses/
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Text for test" 
+}
